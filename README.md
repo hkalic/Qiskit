@@ -15,4 +15,4 @@ The same code from Derek's GH on my IBM Quantum account
 
 ![Survival P(all-0 bitstring) from video](/e4-plots/Dereks.Survival.PofAll.0bs.output2.png)
 
-![Estimator from video](/e4-plots/output-e4-plot.2a.full.png)
+![Estimator from video](/e4-plots/output-e4-plot.2a.full.range.png)
