@@ -4,24 +4,16 @@ Following along YT playlist "Coding with Qiskit"
 https://www.youtube.com/playlist?list=PLOFEBzvs-VvrgHZt3exM_NNiNKtZlHvZi
 
 ## Differences between my and Derek's plots on episode 4
-Derek's original YT plots:
-
+Derek's original YT plots
 <img src="/e4-plots/Dereks.Survival.PofAll.0bs.output.original.png" alt="drawing" width="400"/> <img src="/e4-plots/Dereks.Estimator.output.original.png" alt="drawing" width="400"/>
 
-The same code from Derek's GH on my IBM Quantum account (ibm_brisbane)
+The same code from Derek's GH on my IBM Quantum account
 <img src="/e4-plots/Dereks.Survival.PofAll.0bs.output2.png" alt="drawing" width="400"/> <img src="/e4-plots/output-e4-plot.2a.full.range.png" alt="drawing" width="400"/>
 
+My code, plot1 1st and 2nd try
+<img src="/e4-plots/output-e4-plot.1a.png" alt="drawing" width="400"/> <img src="/e4-plots/output-e4-plot.2a.png" alt="drawing" width="400"/>
 
-Derek's original YT plots:
+My code, plot2 1st and 2nd try (after 2-3 days)
+<img src="/e4-plots/Dereks.Survival.PofAll.0bs.output.original.png" alt="drawing" width="400"/> <img src="/e4-plots/Dereks.Estimator.output.original.png" alt="drawing" width="400"/>
 
-![Survival P(all-0 bitstring) from video](/e4-plots/Dereks.Survival.PofAll.0bs.output.original.png)
-
-![Estimator from video](/e4-plots/Dereks.Estimator.output.original.png)
-
-
-The same code from Derek's GH on my IBM Quantum account (ibm_brisbane)
-
-![Survival P(all-0 bitstring) from video](/e4-plots/Dereks.Survival.PofAll.0bs.output2.png)
-
-![Estimator from video](/e4-plots/output-e4-plot.2a.full.range.png)
-
+All this is done on 'ibm_brisbane' backend
