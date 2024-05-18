@@ -21,3 +21,15 @@ Cell In[13], line 17
      20 list_other.append(1-prob_Bell)
 
 KeyError: '11'
+- - -
+Finaly, I found the error.
+I forgot to measure at the end of circuit. LoL
+
+That's why my results are all the same. I think '11'.
+
+The other thing, 
+when I run the job for the 1st time, I got the same result as in the YT e5.
+However, 2nd run i got totaly different results (check the plots).
+The same backend with the same code with time difference of one hour.
+
+:confused:
