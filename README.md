@@ -22,7 +22,7 @@ Cell In[13], line 17
 
 KeyError: '11'
 - - -
-Finaly, I found the error.
+Finally, I found the error.
 I forgot to measure at the end of circuit. LoL
 
 That's why my results are all the same. I think '11'.
